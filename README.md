@@ -1,8 +1,9 @@
 <h3 align="center">
- Olá eu sou Pedro 👋  
+ Olá eu sou Pedro 👋
 </h3>
 <h3 align="center">
-(Desenvolvedor Front-End)
+  Desenvolvedor Front-End<br/> 
+ (Estudando Back-End)
 </h3>
 <br/>
 
