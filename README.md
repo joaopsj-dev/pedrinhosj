@@ -2,8 +2,7 @@
  Olá eu sou Pedro 👋
 </h3>
 <h3 align="center">
-  Desenvolvedor Front-End<br/> 
- (Estudando Back-End)
+  Desenvolvedor Front-End
 </h3>
 <br/>
 
