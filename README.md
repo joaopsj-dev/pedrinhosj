@@ -2,7 +2,7 @@
  Olá eu sou Pedro 👋
 </h3>
 <h3 align="center">
-  Desenvolvedor Full Stack - JavaScript
+  Desenvolvedor Full Stack - TypeScript
 </h3>
 <br/>
 
